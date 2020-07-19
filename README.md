@@ -1,5 +1,5 @@
 # Google Apps Rating
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg)
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg) ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg)![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg)![seaborn](https://img.shields.io/badge/Library-Seaborn-orange.svg)
 This repository contains CSV taken from Kaggle.
 
 ## Problem Statement
