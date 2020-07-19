@@ -24,4 +24,7 @@ As we all know, Apps are used world wide with rapid increase of users Now, given
 ![download (1)](https://user-images.githubusercontent.com/62024355/87870713-3e0e7b00-c9c8-11ea-9200-c389c55b09ba.png)
 ![download (2)](https://user-images.githubusercontent.com/62024355/87870714-3fd83e80-c9c8-11ea-86ac-91bd5fa10081.png)
 
+## Glimps
+
+![Animated GIF-downsized_large (6)](https://user-images.githubusercontent.com/62024355/87871365-5d5bd700-c9cd-11ea-888e-5de5f24c7eac.gif)
 
