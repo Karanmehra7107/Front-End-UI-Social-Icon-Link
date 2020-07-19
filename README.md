@@ -1,5 +1,5 @@
 # Google Apps Rating
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg)
 This repository contains CSV taken from Kaggle.
 
 ## Problem Statement
