@@ -1,6 +1,7 @@
 # Google Apps Rating
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg) ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg)![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg)![seaborn](https://img.shields.io/badge/Library-Seaborn-orange.svg)
-This repository contains CSV taken from Kaggle.
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg) ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg) ![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg) ![seaborn](https://img.shields.io/badge/Library-Seaborn-orange.svg)
+
+- This repository contains CSV taken from Kaggle.
 
 ## Problem Statement
 As we all know, Apps are used world wide with rapid increase of users Now, given the dataset of google playstore apps, define ratings, coments, price, usage, etc.
