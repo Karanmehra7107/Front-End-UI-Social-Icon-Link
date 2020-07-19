@@ -6,6 +6,11 @@
 ## Problem Statement
 As we all know, Apps are used world wide with rapid increase of users Now, given the dataset of google playstore apps, define ratings, coments, price, usage, etc.
 
+## Directory Tree 
+
+├── Readme resources 
+└── Google_Playstore.pynb
+
 ## Steps
 - Read data
 - Data cleaning
