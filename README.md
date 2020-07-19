@@ -19,7 +19,10 @@ This dataset contains the records of all the attempts Ronaldo has taken. The col
 - AdaBoostClassifier
 
 ## Evaluation
-- Family and events apps got the highest Ratings
 
-        Rating => 4.39
+
+![download](https://user-images.githubusercontent.com/62024355/87870710-3c44b780-c9c8-11ea-922d-6657fb91cfa3.png)
+![download (1)](https://user-images.githubusercontent.com/62024355/87870713-3e0e7b00-c9c8-11ea-9200-c389c55b09ba.png)
+![download (2)](https://user-images.githubusercontent.com/62024355/87870714-3fd83e80-c9c8-11ea-86ac-91bd5fa10081.png)
+
 
