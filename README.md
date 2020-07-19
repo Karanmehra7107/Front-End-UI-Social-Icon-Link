@@ -18,7 +18,7 @@ This dataset contains the records of all the attempts Ronaldo has taken. The col
 - LogisticRegression
 - AdaBoostClassifier
 
-## Evaluation / Visulization
+## Evaluation / Visualization
 
 
 ![download](https://user-images.githubusercontent.com/62024355/87870710-3c44b780-c9c8-11ea-922d-6657fb91cfa3.png)
